@@ -1,0 +1,10 @@
+# This file should NOT be checked into Version Control Systems,
+# as it contains information specific to your local configuration.
+
+# Location of the SDK. This is only used by Gradle.
+# Uncomment and set the path to your Android SDK
+# sdk.dir=/path/to/your/Android/sdk
+
+# Location of the NDK. This is used by cargo-ndk
+# Uncomment and set the path to your Android NDK
+# ndk.dir=/path/to/your/Android/ndk

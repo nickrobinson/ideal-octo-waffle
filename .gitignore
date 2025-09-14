@@ -1,0 +1,26 @@
+# Rust
+/core/target/
+**/*.rs.bk
+Cargo.lock
+
+# Android
+/android/.gradle/
+/android/build/
+/android/app/build/
+/android/local.properties
+/android/.idea/
+/android/*.iml
+/android/app/*.iml
+/android/captures/
+/android/.externalNativeBuild/
+/android/.cxx/
+
+# OS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
